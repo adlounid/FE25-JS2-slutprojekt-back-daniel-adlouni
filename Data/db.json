@@ -1,0 +1,20 @@
+{
+  "tasks": [],
+  "members": [
+    {
+      "id": "0a2ef04e-0531-4bbb-8ba2-c389e6955727",
+      "name": "daniel",
+      "category": "ux"
+    },
+    {
+      "id": "236fc006-337f-45b3-bb68-8e0e98856057",
+      "name": "daniel",
+      "category": "dev frontend"
+    },
+    {
+      "id": "d4ee0af8-e78b-4450-b3f1-bc2fd59306cb",
+      "name": "a",
+      "category": "dev backend"
+    }
+  ]
+}
