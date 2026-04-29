@@ -12,9 +12,6 @@
     "sourceMap": true,
     "noEmitOnError": true
   },
-  "ts-node": {
-    "esm": true
-  },
   "include": ["src/**/*.ts"],
   "exclude": ["dist", "node_modules"]
 }
